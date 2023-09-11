@@ -1,2 +1,2 @@
-# OGroupEcommerceProject
+# EcommerceProject
 Mini Project Ecommerce
